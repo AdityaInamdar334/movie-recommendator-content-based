@@ -8,8 +8,7 @@ This project is a **content-based movie recommender system** built with Python, 
 
 ## 🚀 Demo
 
-🔗 **[Live App on Heroku](#)**  
-_(Replace with your actual link when deployed)_
+🔗 **[Live App](#)**  
 
 ---
 
