@@ -1,6 +1,5 @@
----
 
-```markdown
+
 # 🎬 Movie Recommender System (Content-Based)
 
 This project is a **content-based movie recommender system** built with Python, NLP techniques, and Streamlit, and deployed on Heroku. It suggests similar movies based on your input, using movie features like title, overview, genre, and keywords.
@@ -119,6 +118,3 @@ Here's how the entire system works, step-by-step:
 ## 📜 License
 
 MIT License
-```
-
----
